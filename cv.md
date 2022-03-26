@@ -27,12 +27,12 @@ Why i want to be Frontend Developer cause i'm creative person like drawing and t
 ---
 ### Skills 
 
-Character
+**Character**
 - attentive
 - careful
 - stress-resistant 
 
-Studyng og the University
+**Studyng og the University**
 - telecoms skiils
 - like how work internet 
 - model OSI and TCP/IP
@@ -42,7 +42,7 @@ Studyng og the University
 
 ---
 ### Language 
-- English \- Intermediate
-- Ukraine \- Native
-- Russian \- Native
-- Korean \- Basic
+- English \- *Intermediate*
+- Ukraine \- *Native*
+- Russian \- *Native*
+- Korean \- *Basic*
